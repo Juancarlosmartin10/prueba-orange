@@ -1,2 +1,0 @@
-maven-plugin:2.7.1
-git:2.3.2
